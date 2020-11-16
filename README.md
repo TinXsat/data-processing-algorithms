@@ -6,4 +6,5 @@ Due to my computers hardware some of alghorithms will be running on google colab
 * [Road detection CNN](https://colab.research.google.com/drive/1vq6i-UnfqL5Qr3Zxoz7bTucmbE0XNwEz?usp=sharing)
 
 ## Datasets
+We use heightmaps SRTM dataset to pointing geocordinates avaible [here](https://earthexplorer.usgs.gov/)
 We created also dataset on kaggle: [Rocket photos data](https://www.kaggle.com/miki164/tinxsat)
